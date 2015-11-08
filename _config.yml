@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://thebrutepoint.github.io
+title: the brute point
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
