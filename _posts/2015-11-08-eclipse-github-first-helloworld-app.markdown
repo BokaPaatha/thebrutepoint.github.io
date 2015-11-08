@@ -16,4 +16,4 @@ tags: [#howto, #eclipse, #github]
 - Choose to publish. 
 - You should be good.
 
-> [Good comprehensive article by Vogella]. (http://www.vogella.com/tutorials/EclipseGit/article.html)
+[Good comprehensive article by Vogella] (http://www.vogella.com/tutorials/EclipseGit/article.html).
